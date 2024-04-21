@@ -1,0 +1,20 @@
+{
+  "name": "mc-item-render",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "@types/pngjs": "^6.0.4",
+    "pngjs": "^7.0.0"
+  }
+}
